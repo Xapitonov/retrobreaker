@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="levels">
+        <item>"Не гибнуть (без счёта)"</item>
+        <item>Лёгкая</item>
+        <item>Нормальная</item>
+        <item>Трудная</item>
+    </string-array>
+</resources>
